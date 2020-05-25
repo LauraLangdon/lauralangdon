@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Deep Learning Specialization"
   url = ""
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/76K7E5QD5QQL"
   date_start = "2019-06"
