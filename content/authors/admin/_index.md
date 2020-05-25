@@ -58,4 +58,4 @@ email: ""
 #- Visitors
 ---
 
-Laura Langdon is a machine learning engineer. Her interests include Artifical General Intelligence and ethics in AI.
+Laura Langdon is a machine learning engineer. Her interests include Artificial General Intelligence and ethics in AI.
